@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/controller/CreateProductServlet.java=UTF-8
+encoding//src/controller/DeleteProductServlet.java=UTF-8
+encoding//src/controller/EditProductServlet.java=UTF-8
+encoding//src/controller/LoginServlet.java=UTF-8
+encoding//src/controller/ProductListServlet.java=UTF-8
+encoding//src/controller/RegisterUser.java=UTF-8
+encoding//src/model/beans/UserAccount.java=UTF-8
